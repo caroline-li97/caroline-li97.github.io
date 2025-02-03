@@ -1,1 +1,1 @@
-- •	Dean’s Honors List at UC Davis, Winter 2023.
+- Dean’s Honors List at UC Davis, Winter 2023.
