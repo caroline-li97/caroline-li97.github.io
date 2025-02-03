@@ -2,10 +2,10 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-Zhiheng (Caroline) Li is a software engineer with a strong focus on machine learning, data analytics, and full-stack development. Currently pursuing a Master’s in Computer Science at Texas A&M University, she holds a Bachelor's in Cognitive Science from UC Davis. Caroline has hands-on experience building machine learning models, automating data processes, and delivering impactful software solutions. Proficient in Python, Java, TensorFlow, and frameworks like Ruby on Rails and Django, she excels in both backend and frontend development, with a track record of improving efficiency and accuracy in real-world applications. Strong collaborator and problem-solver.
+She is a software engineer specializing in machine learning, data analytics, and full-stack development. Currently pursuing an M.S. in Computer Science at Texas A&M University. Experienced in building machine learning models, automating data workflows, and delivering impactful software solutions. Proficient in Python, Java, TensorFlow, Ruby on Rails, and Django. Skilled in full-stack development with a proven track record of enhancing efficiency and accuracy in real-world applications. Collaborative problem-solver.
 
 #### Email
-zhiheng.li9[at]gmail.com
+zhiheng.li9[at]gmail.com\
 zhiheng[at]tamu.edu
 
 #### Education
