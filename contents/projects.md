@@ -1,0 +1,3 @@
+- <strong>Malware-Detection-and-Attacker</strong> | Flask, Python, TensorFlow, Keras, Pandas, Docker [[Code]](https://github.com/caroline-li97/Malware-Detection-and-Attacker)
+    • Collaborated with a teammate to develop a deep learning model using Convolutional Neural Networks to classify goodware and malware from a dataset of over 200,000 samples, achieving an FPR of <1% and a TPR of >95% on validation samples.
+    • Deployed the model in a Docker container for scalable and efficient production use.
